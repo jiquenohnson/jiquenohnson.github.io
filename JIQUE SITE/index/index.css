@@ -1,0 +1,144 @@
+body {
+    background-color: black;
+}
+
+#runningVid {
+    position: absolute;
+    left: 0em;
+    top:0em;
+    width: 67.9em;
+    justify-content:center;
+}
+
+#citrusClip2Vid {
+    position:absolute;
+    left:0em;
+    top: 45.25em;
+    width: 90em;
+}
+
+#galentinesClipVid {
+    position:absolute;
+    left:0em;
+    top: 95.85em;
+    width: 90em;
+}
+
+#nezbittClipVid {
+    position:absolute;
+    left:0em;
+    top: 146.3em;
+    width: 90em;
+}
+
+#runningVidButton {
+    color:white;
+    position: absolute;
+    
+}
+
+#homeButton {
+    position: absolute;
+    right:1em;
+    top:-.3em;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    width: 15em;
+    height:7em;
+    text-align: right;
+    font-size: 1.8em;
+    
+    
+    
+    
+}
+
+#list {
+    position: absolute;
+    right: 1.5em;
+    top:0em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:900;
+    font-size: 1.3em;
+    text-align:right;
+   
+    
+    
+    
+    
+}
+
+#homeBox {
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    right: 0em;
+    top: 8em;
+    width: 22.1em;
+    height :50em;
+    
+}
+
+#info {
+    text-align: right;
+    position: absolute;
+    top:8em;
+    color: rgb(255, 255, 255);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    font-size:2em;
+    right: 0em;
+    padding:1em;
+    
+    
+}
+
+#info2 {
+    text-align: right;
+    position: absolute;
+    top:21.6em;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    font-size:1.2em;
+    right:0em;
+    padding-left:1em;
+    padding-right: 1.7em;
+    
+}
+
+#info3 {
+    
+    text-align: right;
+    position: absolute;
+    top:31.6em;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    font-size:1em;
+    right:0em;
+    padding-left:2em;
+    padding-right: 1.95em;
+        
+    
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+li {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
+h1 {
+    font-weight: 900;
+    
+}
+
